@@ -68,7 +68,7 @@ The project notebook is divided into the following sections:
 ---
 
 ## **How to Use This Repository**
-1. Upload the jupyter notebook `Breast_ultrasound_project.ipynb` to your Drive account and open it in Google Colab or clone this repository to your local machine:
+1. Upload the jupyter notebook `Breast_US_based_DeepLearning_Project.ipynb` to your Drive account and open it in Google Colab or clone this repository to your local machine:
    ```bash
    https://github.com/smoreno18/Breast_Ultrasound_project.git
    ```
