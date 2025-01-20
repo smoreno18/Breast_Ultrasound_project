@@ -73,7 +73,7 @@ The project notebook is divided into the following sections:
    https://github.com/smoreno18/Breast_Ultrasound_project.git
    ```
 
-2. Upload to your Drive the model's weights in order to avoid the training step.
+2. Upload to your Drive the model's weights in order to avoid the training step (Optional).
 
   
 4. Run the notebook step by step to reproduce the results or modify it for further experimentation.
